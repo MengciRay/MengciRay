@@ -1,5 +1,4 @@
-## Hi there 👋
-# I'm Guo 👋
+## Hi there !  I'm Guo 👋
 
 PhD student in **Marine Biology**
 
